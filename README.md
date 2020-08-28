@@ -1,2 +1,2 @@
-# go-barber
-An feature project of @hitechline to barber's of Campo Grande
+# projeto-typescript
+Primeiro Projeto usando TypeScript
