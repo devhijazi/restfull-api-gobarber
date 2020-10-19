@@ -41,7 +41,7 @@ export default {
 
     config: {
         aws: {
-            bucket: 'app-gobarber-2',
+            bucket: 'gobarber-avatar-api',
         },
     },
 } as IUploadConfig;

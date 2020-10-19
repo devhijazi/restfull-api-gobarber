@@ -3,3 +3,4 @@ temp/*
 coverage
 ormconfig.json
 node_modules
+.env

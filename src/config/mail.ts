@@ -14,8 +14,8 @@ export default {
 
     defaults: {
         from: {
-            email: 'lucas.vanni@me.com',
-            name: 'Lucas Vanni',
+            email: 'hijazi.root@gmail.com',
+            name: 'Gabriel Hijazi',
         },
     },
 } as IMailConfig;
