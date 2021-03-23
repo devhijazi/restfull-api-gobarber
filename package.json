@@ -17,7 +17,7 @@
     "@types/ioredis": "4.17.5",
     "@types/jest": "26.0.14",
     "@types/jsonwebtoken": "8.5.0",
-    "@types/mongodb": "3.5.28",
+    "@types/mongodb": "3.6.10",
     "@types/multer": "1.4.4",
     "@types/nodemailer": "6.4.1",
     "@types/redis": "2.8.28",
